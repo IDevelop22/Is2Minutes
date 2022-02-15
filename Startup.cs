@@ -1,4 +1,5 @@
 using Is2MinutesBackend.PostgreSQL;
+using Is2MinutesBackend.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,8 +35,16 @@ namespace Is2MinutesBackend
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Is2MinutesBackend", Version = "v1" });
             });
+            services.AddScoped(typeof(IEverythingRepo<>), typeof(EverythingRepo<>));
 
-           services.AddDbContext<BloggingContext>(options =>
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+            }));
+
+            services.AddDbContext<Is2MinutesContext>(options =>
            options.UseNpgsql(Configuration.GetConnectionString("default")));
         }
 
@@ -54,7 +63,7 @@ namespace Is2MinutesBackend
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseCors("MyPolicy");
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

@@ -1,3 +1,10 @@
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.csprojAssemblyReference.cache
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.AssemblyInfoInputs.cache
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.AssemblyInfo.cs
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.csproj.CoreCompileInputs.cache
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5.0\appsettings.json
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5.0\Is2MinutesBackend.exe
@@ -20,13 +27,6 @@ C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.csprojAssemblyReference.cache
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.AssemblyInfoInputs.cache
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.AssemblyInfo.cs
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.csproj.CoreCompileInputs.cache
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\Is2MinutesBackend.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\staticwebassets\Is2MinutesBackend.StaticWebAssets.Manifest.cache
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\staticwebassets\Is2MinutesBackend.StaticWebAssets.xml
 C:\Users\LephadB\source\repos\Is2MinutesBackend\Is2MinutesBackend\obj\Debug\net5.0\scopedcss\bundle\Is2MinutesBackend.styles.css

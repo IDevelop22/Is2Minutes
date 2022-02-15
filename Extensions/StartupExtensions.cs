@@ -23,7 +23,7 @@ namespace Is2MinutesBackend.Extensions
 
                 try
                 {
-                    var context = services.GetService<BloggingContext>();
+                    var context = services.GetService<Is2MinutesContext>();
                     context.Database.Migrate(); ;
 
                 }
